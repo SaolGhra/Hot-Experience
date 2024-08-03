@@ -42,29 +42,6 @@ Hot Experience is a Minecraft mod designed to make inventory management easier b
     - If the offhand is empty, it will swap in the available item.
     - If the offhand contains an Experience Bottle, it will swap in a Totem of Undying if available, and vice versa.
 
-## Contributing
-
-If you'd like to contribute to Hot Experience, please follow these steps:
-
-1. **Fork the Repository**:
-    - Click the "Fork" button at the top-right of this page.
-
-2. **Clone Your Fork**:
-    - Use `git clone <your-fork-url>` to clone your fork to your local machine.
-
-3. **Create a Branch**:
-    - Create a new branch for your changes: `git checkout -b <your-branch-name>`.
-
-4. **Make Changes**:
-    - Implement your changes or new features.
-
-5. **Commit and Push**:
-    - Commit your changes: `git commit -am 'Add new feature'`.
-    - Push your branch: `git push origin <your-branch-name>`.
-
-6. **Submit a Pull Request**:
-    - Go to the repository on GitHub and submit a pull request with a description of your changes.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
